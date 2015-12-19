@@ -1,0 +1,6 @@
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\Operators\bin\Debug\Operators.exe.config
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\Operators\bin\Debug\Operators.exe
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\Operators\bin\Debug\Operators.pdb
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\Operators\obj\Debug\Unary.csprojResolveAssemblyReference.cache
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\Operators\obj\Debug\Operators.exe
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\Operators\obj\Debug\Operators.pdb

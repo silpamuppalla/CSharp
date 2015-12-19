@@ -1,0 +1,5 @@
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\Do_While\bin\Debug\Do_While.exe.config
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\Do_While\bin\Debug\Do_While.exe
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\Do_While\bin\Debug\Do_While.pdb
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\Do_While\obj\Debug\Do_While.exe
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\Do_While\obj\Debug\Do_While.pdb

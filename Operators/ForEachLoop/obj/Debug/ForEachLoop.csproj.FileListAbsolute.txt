@@ -1,0 +1,5 @@
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\ForEachLoop\bin\Debug\ForEachLoop.exe.config
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\ForEachLoop\bin\Debug\ForEachLoop.exe
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\ForEachLoop\bin\Debug\ForEachLoop.pdb
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\ForEachLoop\obj\Debug\ForEachLoop.exe
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\ForEachLoop\obj\Debug\ForEachLoop.pdb

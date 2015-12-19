@@ -1,0 +1,5 @@
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\MyConsoleApplication1\MyConsoleApplication2\bin\Debug\MyConsoleApplication2.exe.config
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\MyConsoleApplication1\MyConsoleApplication2\bin\Debug\MyConsoleApplication2.exe
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\MyConsoleApplication1\MyConsoleApplication2\bin\Debug\MyConsoleApplication2.pdb
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\MyConsoleApplication1\MyConsoleApplication2\obj\Debug\MyConsoleApplication2.exe
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\MyConsoleApplication1\MyConsoleApplication2\obj\Debug\MyConsoleApplication2.pdb

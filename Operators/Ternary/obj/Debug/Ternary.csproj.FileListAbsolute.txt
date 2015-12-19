@@ -1,0 +1,5 @@
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\Ternary\bin\Debug\Ternary.exe.config
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\Ternary\bin\Debug\Ternary.exe
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\Ternary\bin\Debug\Ternary.pdb
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\Ternary\obj\Debug\Ternary.exe
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\Ternary\obj\Debug\Ternary.pdb

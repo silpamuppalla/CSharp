@@ -1,0 +1,5 @@
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\For\bin\Debug\For.exe.config
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\For\bin\Debug\For.exe
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\For\bin\Debug\For.pdb
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\For\obj\Debug\For.exe
+c:\users\silpa muppalla\documents\visual studio 2013\Projects\Operators\For\obj\Debug\For.pdb

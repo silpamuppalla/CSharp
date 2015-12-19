@@ -1,0 +1,6 @@
+C:\Users\Silpa Muppalla\Documents\Visual Studio 2013\Projects\AssignmentFour\Structure\bin\Debug\Structure.exe.config
+C:\Users\Silpa Muppalla\Documents\Visual Studio 2013\Projects\AssignmentFour\Structure\bin\Debug\Structure.exe
+C:\Users\Silpa Muppalla\Documents\Visual Studio 2013\Projects\AssignmentFour\Structure\bin\Debug\Structure.pdb
+C:\Users\Silpa Muppalla\Documents\Visual Studio 2013\Projects\AssignmentFour\Structure\obj\Debug\Structure.csprojResolveAssemblyReference.cache
+C:\Users\Silpa Muppalla\Documents\Visual Studio 2013\Projects\AssignmentFour\Structure\obj\Debug\Structure.exe
+C:\Users\Silpa Muppalla\Documents\Visual Studio 2013\Projects\AssignmentFour\Structure\obj\Debug\Structure.pdb
